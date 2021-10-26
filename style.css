@@ -109,3 +109,21 @@ p {
     border: 2px solid blue;
     margin-bottom: 4px;
 }
+
+.middle {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    padding: 24px 48px;
+}
+
+.quote {
+    margin: auto;
+    width: 50%;
+}
+
+.sig {
+    width: 50%;
+    margin-left: auto;
+}
